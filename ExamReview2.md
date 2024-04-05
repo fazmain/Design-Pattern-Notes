@@ -18,4 +18,7 @@
 2. Designing and maintaing software at a higher level
 3. Better code structure - looser coupling
 
-### 
+### Decorator and composite pattern
+1. Composite pattern: having handlers for both primitive file types as well as collection for collective types.
+2. Decorator violates 'is a' relationship
+3. 
